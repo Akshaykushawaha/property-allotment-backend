@@ -1,5 +1,5 @@
 // Import config
-const config = require('../../conifg.json');
+const config = require('../conifg.json');
 
 // Controller function for user verification
 const verifyUser = (req, res) => {
